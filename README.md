@@ -15,4 +15,4 @@ Dataset source: https://www.kaggle.com/datasets/muratkokludataset/rice-image-dat
 <h1>Running the code
   
 <h4>Execute cells one-by-one in the notebook.
-<h4>Note: model training may take a considerable amount of time, depending on the hardware, expecially in case of CPU training.
+<h4>Note: model training may take a considerable amount of time, depending on the hardware, especially in case of CPU training.
